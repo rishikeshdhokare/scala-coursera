@@ -1,0 +1,10 @@
+*.class
+week1/example/.idea
+week1/example/target
+week1/example/project/target
+week1/example/project/project/target
+
+week1/recfun/.idea
+week1/recfun/target
+week1/recfun/project/target
+week1/recfun/project/project/target
